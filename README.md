@@ -20,6 +20,12 @@ Friendly for both data scientists and policymakers, with a Python library and a 
 [Themis](https://github.com/LASER-UMASS/Themis)
 Automatically generates test suites to measure discrimination in decisions made by a predictive system
 
+### Bias Detection and Mitigation
+[Themis-ML](https://github.com/cosmicBboy/themis-ml)
+Has both fairness metrics and bias mitigation algorithms like relabeling, additive counterfactually fair estimator, and reject option classification.
+
+[Fairness Comparison](https://github.com/algofairness/fairness-comparison)
+Several bias detection metrics and bias mitigation methods like disparate impact remover, prejudice remover and two-Naive Bayes.
 
 ## Research Papers 
 
